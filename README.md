@@ -9,23 +9,23 @@ The game includes multiple difficulty levels with engaging gameplay and visually
 
 ## ✨ Features
 
-- 🧩 Easy and hard maze levels
-- 🎮 Smooth keyboard controls
-- 🚧 Challenging obstacle navigation
-- 🏆 Level completion screens
-- ⚡ Interactive gameplay experience
-- 🐍 Built using Python and Pygame
+-  Easy and hard maze levels
+-  Smooth keyboard controls
+-  Challenging obstacle navigation
+-  Level completion screens
+-  Interactive gameplay experience
+-  Built using Python and Pygame
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pygame
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 MazeGirl/
@@ -43,7 +43,7 @@ MazeGirl/
 
 ---
 
-## 🚀 Installation & Run
+##  Installation & Run
 
 ### 1️⃣ Clone the Repository
 
